@@ -1,0 +1,223 @@
+
+.navbar{
+  background-color: #316DC3;
+  }
+.dropdown-toggle:hover{
+  background-color: #007bff;
+    border-radius: 30px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}
+                                   /* TITLE */
+.whatsapp{
+  width: 17px;
+  height: 17px;
+}
+
+.menu :hover{
+  background-color: #007bff;
+  border-radius: 30px;
+  display: block;
+}
+.dropdown:hover>.dropdown-menu{
+  display: block;
+}
+
+.btnhome{
+  border-radius: 30px;
+}
+
+#title p {
+  color: #fff;
+  text-align: center;
+}
+.navpara{
+  font-size: 12px;
+}
+
+.logo{
+  width: 300px;
+  height: 80px;
+  margin-right: 5px;
+}
+
+.btn{
+  padding: 0 2px ;
+}
+
+#headlines
+ {
+     margin-top: 10px;
+     background-color:#316DC3;
+     color: #fff;
+ }
+
+
+
+                              /* INTRODUCTION */
+#introduction{
+  padding: 5% 0 5% 0;
+  background-color: #f0f0f0;
+  font-family: "Merriweather",serif;
+
+}
+.flex-container
+ {
+    display: flex;
+    justify-content: center;
+}
+.flex-container p
+{
+   color: green;
+   font-style: unset;
+
+}
+h1{
+  text-align: center;
+  color: #316DC3;
+}
+.monthly{
+  color: rgb(0, 255, 0);
+}
+Span{
+  color: green;
+}
+.smalllogo
+{
+  width: 40px;
+  height: 40px;
+
+}
+
+
+
+                                /* TOTAL */
+#total{
+  background-color: #1273EB;
+  padding: 5% 0;
+}
+.feature-box{
+  text-align: center;
+  color: #fff;
+}
+
+
+
+
+
+
+                                /* DOING */
+
+#doing{
+  background-color: #f0f0f0;
+  padding: 80px 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+  font-weight: 600;
+  color:  #316DC3;
+}
+.doinglogo{
+  width: 60px;
+  height: 60px;
+}
+.img-size{
+  width: 60px;
+  height: 60px;
+}
+                               /* MISSION */
+
+#mission{
+ padding: 70px 0;
+ font-family: "Merriweather",serif;
+ font-weight: 600;
+color:  #316DC3;
+}
+#mission hr{
+  height: 10px;
+  border: solid green 2px ;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 6%;
+  position: absolute;
+
+}
+#mission .hr2{
+
+  border: solid green 2px ;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 14%;
+  position: absolute;
+}
+
+#mission span{
+   color:  #316DC3;
+}
+
+.scrollbar{
+  height: 300px;
+  width: 300px;
+  overflow: auto;
+  color: GREY;
+  font-weight: lighter;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.img-size1{
+  width: 30px;
+  height: 30px;
+}
+
+.cardcolor{
+  background-color: #f0f0f0;
+}
+
+.events p{
+color: green;
+
+}
+                                 /* IMAGES */
+
+#gallery{
+  padding-bottom: 150px;
+  font-family: "Merriweather",serif;
+  font-weight: 600;
+}
+.image-gallery{
+  width: 215px;
+  height:150px;
+}
+
+
+
+
+                              /* footer */
+
+
+
+#footer{
+  background-color: #333;
+  color: #f0f0f0;
+  padding: 60px 0;
+  margin-top: 200px
+}
+
+
+.links p{
+  color: grey;
+}
+
+                             /* copyright */
+
+#copyright{
+  background-color: #1273EB;
+  padding: 10px 0;
+  color: #fff;
+}
